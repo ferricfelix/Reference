@@ -96,4 +96,4 @@ else:
 
 import random will bring in the random library and we'll have access to everything in the random library by using dot notation. For example, the randint function belongs to the random library. If we want to use it, we do random.randint().
 
-
+dir() lists attributes of the object
